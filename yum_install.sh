@@ -8,3 +8,4 @@ echo `sudo yum groupinstall -y "Development Tools"`
 
 echo `wget https://www.python.org/ftp/python/3.7.13/Python-3.7.13.tgz`
 echo `tar -zxvf Python-3.7.13.tgz`
+echo `yum list installed ${PKG}`
