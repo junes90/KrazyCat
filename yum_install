@@ -1,0 +1,15 @@
+wget
+net-tools
+openssh-server
+openssh-clients
+openssh-askpass
+epel-release
+vim
+bind-utils
+git
+gcc
+openssl-devel
+bzip2-devel
+libffi-devel
+https://download.postgresql.org/pub/repos/yum/reporpms/EL-7-x86_64/pgdg-redhat-repo-latest.noarch.rpm
+postgresql-devel
